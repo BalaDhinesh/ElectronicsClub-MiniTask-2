@@ -12,7 +12,7 @@ where I made description of 25 different diverse electronics projects.
 
 __The two projects are:__
 
-1. Maze Solving Robot:
+## 1. Maze Solving Robot:
 
 
 
@@ -25,7 +25,7 @@ https://github.com/BalaDhinesh/ElectronicsClub-MiniTask1/blob/master/Maze%20Solv
 
 
 
-2. Random Number Generator:
+## 2. Random Number Generator:
 
 
 
