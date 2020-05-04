@@ -16,11 +16,13 @@ __The two projects are:__
 
 
 
-    __Description of this project:__
+  __Description of this project:__
 https://github.com/BalaDhinesh/ElectronicsClub-MiniTask2/blob/master/Maze%20Solving%20Robot_Ideation.md
 
 
-    __Ideation of this project:__
+
+
+  __Ideation of this project:__
 https://github.com/BalaDhinesh/ElectronicsClub-MiniTask1/blob/master/Maze%20Solving%20Robot.md
 
 
@@ -30,9 +32,11 @@ https://github.com/BalaDhinesh/ElectronicsClub-MiniTask1/blob/master/Maze%20Solv
 
 
 
-    __Description of this project:__
+  __Description of this project:__
 https://github.com/BalaDhinesh/ElectronicsClub-MiniTask1/blob/master/Random%20Number%20Generator%20using%208051%20Microcontroller.md
 
 
-    __Ideation of this project:__
+
+
+  __Ideation of this project:__
 https://github.com/BalaDhinesh/ElectronicsClub-MiniTask2/blob/master/Random%20Number%20Generator_Ideation.md
