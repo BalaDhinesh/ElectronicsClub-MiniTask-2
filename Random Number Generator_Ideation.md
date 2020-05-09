@@ -44,6 +44,4 @@ The suggested idea is very good. I would like to add further with my ideas. Inst
 
 
 __Resource that help me to a better solution:__
-
-
 https://www.gadgetronicx.com/random-number-generator-circuit/
